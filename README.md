@@ -8,4 +8,4 @@ Criado com o intuito  de facilitar a gerencia interna das maquinas que chegam pa
 
 
 
-*Sistema criado por mim, acadêmico de sistema de informação da unipar.*
+*Sistema criado por mim, acadêmico de sistemas de informação da unipar.*
